@@ -1,0 +1,7 @@
+C:\Users\Vinicius_G_Santos\Desktop\BasicWCFService\BasicWCFService\obj\Debug\BasicWCFService.csprojResolveAssemblyReference.cache
+C:\Users\Vinicius_G_Santos\Desktop\BasicWCFService\BasicWCFService\obj\Debug\BasicWCFService.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius_G_Santos\Desktop\BasicWCFService\BasicWCFService\bin\BasicWCFService.dll.config
+C:\Users\Vinicius_G_Santos\Desktop\BasicWCFService\BasicWCFService\bin\BasicWCFService.dll
+C:\Users\Vinicius_G_Santos\Desktop\BasicWCFService\BasicWCFService\bin\BasicWCFService.pdb
+C:\Users\Vinicius_G_Santos\Desktop\BasicWCFService\BasicWCFService\obj\Debug\BasicWCFService.dll
+C:\Users\Vinicius_G_Santos\Desktop\BasicWCFService\BasicWCFService\obj\Debug\BasicWCFService.pdb
